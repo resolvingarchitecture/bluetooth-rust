@@ -10,7 +10,7 @@ fn main() {
     let m = App::new("bluetooth_client")
         .about("A SAM I2P client for the local I2P router instance. Not compliant with any version yet.")
         .version(crate_version!())
-        .author("Brian Taylor <brian@resolvingarchitecture.io>")
+        .author("Brian Taylor <brian@resolvingarchitecture.dev>")
         .setting(AppSettings::ArgRequiredElseHelp)
         .setting(AppSettings::ColoredHelp)
         .setting(AppSettings::ColorAlways)
