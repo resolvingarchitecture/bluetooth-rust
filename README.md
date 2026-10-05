@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://resolvingarchitecture.dev/images/ra.png"  />
+  <img src="https://resolvingarchitecture.io/images/ra.png"  />
 
   <h1>Resolving Architecture</h1>
 
@@ -20,7 +20,7 @@
   </p>
   <p>
     <a href="https://github.com/resolvingarchitecture/bluetooth-client/blob/master/LICENSE"><img alt="License" src="https://img.shields.io/github/license/resolvingarchitecture/bluetooth-client"/></a>
-    <a href="https://resolvingarchitecture.dev/ks/publickey.brian@resolvingarchitecture.dev.asc"><img alt="PGP" src="https://img.shields.io/keybase/pgp/objectorange"/></a>
+    <a href="https://resolvingarchitecture.io/ks/publickey.brian@resolvingarchitecture.io.asc"><img alt="PGP" src="https://img.shields.io/keybase/pgp/objectorange"/></a>
   </p>
   <p>
     <img alt="commits" src="https://img.shields.io/crates/d/bluetooth-client"/>
@@ -33,7 +33,7 @@
   </p>
 
   <h4>
-    <a href="https://resolvingarchitecture.dev">Info</a>
+    <a href="https://resolvingarchitecture.io">Info</a>
     <span> | </span>
     <a href="https://docs.rs/crate/bluetooth_client/">Docs</a>
     <span> | </span>
@@ -42,7 +42,7 @@
 </div>
 
 ## Donate
-Request BTC/XMR/ZEC address for a donation at brian@resolvingarchitecture.dev.
+Request BTC/XMR/ZEC address for a donation at brian@resolvingarchitecture.io.
 
 ## Notes
 !! WIP - not stable until version 1.0 !!

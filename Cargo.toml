@@ -1,11 +1,11 @@
 [package]
 name = "bluetooth_client"
 version = "0.0.13"
-authors = ["Brian Taylor <brian@resolvingarchitecture.dev>"]
+authors = ["Brian Taylor <brian@resolvingarchitecture.io>"]
 license-file = "LICENSE"
 edition = "2018"
 description = "A client for the local bluetooth radio"
-homepage = "https://resolvingarchitecture.dev"
+homepage = "https://resolvingarchitecture.io"
 documentation = "https://github.com/resolvingarchitecture/bluetooth-client"
 repository = "https://github.com/resolvingarchitecture/bluetooth-client"
 publish = true
@@ -29,7 +29,7 @@ clap = "2.33.0"
 assert_cmd = "0.10"
 
 [package.metadata.deb]
-maintainer = "Brian Taylor <brian@resolvingarchitecture.dev>"
+maintainer = "Brian Taylor <brian@resolvingarchitecture.io>"
 copyright = "Unlicense"
 license-file = ["LICENSE","0"]
 extended-description = """\
